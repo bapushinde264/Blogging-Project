@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="homePage" src="https://github.com/user-attachments/assets/0d74a891-030d-4b78-a362-c06712f65ad4" />
+
 # Blogging-Project
 This blogging application project helps me increasing knowledge of
 Crud operations and Basics of Backend. Simply we can Add new Auther,
